@@ -1,2 +1,2 @@
-# Projects
-Some of the projects I have done.
+# Dendron Project
+A project that translates operations.
